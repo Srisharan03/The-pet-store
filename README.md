@@ -4,7 +4,7 @@ This is a frontend project for an e-commerce website focused on selling pet acce
 
 ## Tech Stack
 
--> React (with TypeScript)  
+-> React (with JavaScript)  
 -> Vite (for development and build tooling)  
 -> Tailwind CSS (for utility-first styling)  
 -> React Router DOM (for routing)  
