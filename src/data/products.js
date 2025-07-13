@@ -211,7 +211,7 @@ export const categories = [
   {
     id: 'aquatic',
     name: 'Aquatic',
-    image: 'https://images.pexels.com/photos/1374462/pexels-photo-1374462.jpeg?auto=compress&cs=tinysrgb&w=500',
+    image: '../../assessts/aquatic/download (1).jpeg',
     description: 'Everything for your underwater pets'
   },
 ];
